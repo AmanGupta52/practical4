@@ -103,7 +103,3 @@ class WiFiAuditUI:
             self.log("[-] No valid password found")
 
 
-if __name__ == "__main__":
-    root = tk.Tk()
-    app = WiFiAuditUI(root)
-    root.mainloop()
