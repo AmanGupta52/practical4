@@ -2,7 +2,6 @@ from modules.network_scanner import NetworkScanner
 from modules.password_attack_simulator import NetworkScanner, WiFiConnector
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
-import threading
 
 
 class WiFiAuditUI:
